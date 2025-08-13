@@ -16,6 +16,7 @@ This project presents a dynamic HR Analytics dashboard built in Power BI to expl
 
 -Enable HR teams to filter and drill into key metrics for strategic planning
 
+
 📁 Dataset Description
 The dataset is sourced from an Excel file (HR_Analytics1.xlsx) and includes the following fields:
 
@@ -28,3 +29,30 @@ The dataset is sourced from an Excel file (HR_Analytics1.xlsx) and includes the 
 | ⭐ Performance & Satisfaction | Performance Rating, Job Satisfaction, Work-Life Balance              |
 | ❌ Attrition            | Attrition (Yes/No)                                                           |
 
+
+🔍 Key Insights
+📉 Attrition is highest in Sales and HR departments
+
+✈️ Employees with frequent travel show increased attrition
+
+😐 Job satisfaction is lowest among entry-level roles
+
+👥 Majority of employees are aged between 30–40 years
+
+💼 Work-life balance scores vary significantly across departments
+
+
+
+🚀 How to Use
+-Clone or download this repository
+
+-Open the .pbix file in Power BI Desktop
+
+-Use slicers to filter by department, role, age group, etc.
+
+-Navigate between pages using buttons for a seamless experience
+
+
+📸 Dashboard Preview
+
+<img width="1040" height="565" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/df1d20e0-7f33-4d6d-b2a3-47de0a1a05b0" />
